@@ -10,12 +10,12 @@ Cdn for cloukit.github.io static files like webfonts
 ## Webfonts
 
 ```html
-  <link href="https://cloukit.github.io/cdn-static/css/webfonts.css" rel="stylesheet">
-  <style>
-    body { font-family: 'Source Sans Pro', sans-serif; }
-    pre, code { font-family: 'Roboto Mono', monospace; font-size:15px; }
-  </style>
- ```
+<link href="https://cloukit.github.io/cdn-static/css/webfonts.css" rel="stylesheet">
+<style>
+  body { font-family: 'Source Sans Pro', sans-serif; }
+  pre, code { font-family: 'Roboto Mono', monospace; font-size:15px; }
+</style>
+```
  
  
  
