@@ -1,5 +1,7 @@
 [![](https://cloukit.github.io/assets/images/cloukit-banner-github.svg?v3)](https://cloukit.github.io/)
 
+### :bangbang: DEPRECATED AND ARCHIVED
+
 # cdn-static
 Cdn for cloukit.github.io static files like webfonts
 
